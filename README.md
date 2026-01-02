@@ -1,6 +1,6 @@
 # António Santos
 
-Finance & data analysis enthusiast with a background in Economics, building practical projects in financial reporting, ratios, and market analysis.
+Data analysis & Finance enthusiast with a background in Economics, building practical projects in financial reporting, ratios, and market analysis.
 
 ## Skills
 - Financial statement analysis (IFRS/GAAP basics), ratio analysis, reporting
