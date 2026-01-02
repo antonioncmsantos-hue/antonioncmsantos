@@ -17,6 +17,6 @@ Data analysis & Finance enthusiast with a background in Economics, building prac
 - **[Certificates Repository](https://github.com/antonioncmsantos-hue/certificates)**
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/TEU-LINK-AQUI
-- Email: teuemail@exemplo.com *(optional — só se quiseres mesmo público)*
+- LinkedIn: www.linkedin.com/in/antónio-santos-4272b7299
+- Email: antonioncmsantos@gmail.com 
 
