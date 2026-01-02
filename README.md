@@ -6,7 +6,8 @@ Data analysis & Finance enthusiast with a background in Economics, building prac
 - Financial statement analysis (IFRS/GAAP basics), ratio analysis, reporting
 - Excel (models, dashboards), PowerPoint (presentations)
 - Python (pandas, numpy, matplotlib) *(edit if needed)*
-- SQL *(edit if needed)*
+- SQL
+- Tableau
 
 ## Featured Projects
 - **[Finance Projects](https://github.com/antonioncmsantos-hue/finance-projects)** — curated finance/data analysis projects with clear documentation.
