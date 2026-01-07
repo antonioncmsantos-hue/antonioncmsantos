@@ -12,7 +12,7 @@ Data analysis & Finance enthusiast with a background in Economics, building prac
 ## Featured Projects
 - **Projects Repository (all projects):** [projects](https://github.com/antonioncmsantos-hue/projects)
 - **RMBA Assignment (Group B9):** [rmba-assignment](https://github.com/antonioncmsantos-hue/projects/tree/main/projects/rmba-assignment)
-- **Data Visualization – Terrorism, Economics & Governance:** [data-visualization-terrorism](https://github.com/antonioncmsantos-hue/projects/tree/main/projects/data-visualization-terrorism)
+- **Data Visualization – Terrorism, Economics & Governance:** [data-visualization-terrorism](https://github.com/antonioncmsantos-hue/projects/tree/main/data-visualization-terrorism).
 
 
 ## Certificates
