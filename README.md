@@ -10,9 +10,10 @@ Data analysis & Finance enthusiast with a background in Economics, building prac
 - Tableau
 
 ## Featured Projects
-- **[Finance Projects](https://github.com/antonioncmsantos-hue/finance-projects)** — curated finance/data analysis projects with clear documentation.
-- **[Tupperware Bankruptcy Analysis](https://github.com/antonioncmsantos-hue/REPO-LINK-AQUI)** — financial ratios + key takeaways. *(replace link)*
-- **[Chevron Financial Analysis (2021–2023)](https://github.com/antonioncmsantos-hue/REPO-LINK-AQUI)** — executive summary + trends. *(replace link)*
+- **Projects Repository (all projects):** [projects](https://github.com/antonioncmsantos-hue/projects)
+- **RMBA Assignment (Group B9):** [rmba-assignment](https://github.com/antonioncmsantos-hue/projects/tree/main/projects/rmba-assignment)
+- **Data Visualization – Terrorism, Economics & Governance:** [data-visualization-terrorism](https://github.com/antonioncmsantos-hue/projects/tree/main/projects/data-visualization-terrorism)
+
 
 ## Certificates
 - **[Certificates Repository](https://github.com/antonioncmsantos-hue/certificates)**
