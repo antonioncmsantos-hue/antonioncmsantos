@@ -1,6 +1,6 @@
 # António Santos
 
-Data analysis & Finance enthusiast with a background in Economics, building practical projects in financial reporting, ratios, and market analysis.
+Aspiring Financial Analyst | Data-driven finance projects in Python/SQL/Power BI | Open to internships
 
 ## Skills
 - **Tools**: Python, SQL, Power BI, Excel
