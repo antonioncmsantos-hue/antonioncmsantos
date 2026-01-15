@@ -11,7 +11,7 @@ Aspiring Financial Analyst | Data-driven finance projects in Python/SQL/Power BI
 ### 1) [Credit Risk Modeling — Loan Default](https://github.com/antonioncmsantos-hue/projects/tree/main/projects/rmba-assignment)
 **What it solves:** Builds a credit-risk model to estimate loan default likelihood from borrower and loan features, supporting screening and risk profiling.  
 **Stack:** Python, pandas, statsmodels, scikit-learn  
-**Output:** [Report (HTML)](LINK_DO_HTML_AQUI) · ![preview](assets/credit-risk.png)
+**Output:** [Report (ipynb)](https://github.com/antonioncmsantos-hue/projects/blob/main/projects/rmba-assignment/notebooks/RMBA_Group_B9.ipynb) · ![preview](assets/credit-risk.png)
 
 ---
 
