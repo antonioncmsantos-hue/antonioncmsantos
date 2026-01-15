@@ -3,11 +3,9 @@
 Data analysis & Finance enthusiast with a background in Economics, building practical projects in financial reporting, ratios, and market analysis.
 
 ## Skills
-- Financial statement analysis (IFRS/GAAP basics), ratio analysis, reporting
-- Excel (models, dashboards), PowerPoint (presentations)
-- Python (pandas, numpy, matplotlib) *(edit if needed)*
-- SQL
-- Tableau
+- **Tools**: Python, SQL, Power BI, Excel
+- **Data**: pandas, NumPy, data cleaning, visualization
+- **Finance**: financial statements analysis, ratios, valuation basics
 
 ## Featured Projects
 - **Projects Repository (all projects):** [projects](https://github.com/antonioncmsantos-hue/projects)
