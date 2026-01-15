@@ -8,9 +8,17 @@ Aspiring Financial Analyst | Data-driven finance projects in Python/SQL/Power BI
 - **Finance**: financial statements analysis, ratios, valuation basics
 
 ## Featured Projects
-- **Projects Repository (all projects):** [projects](https://github.com/antonioncmsantos-hue/projects)
-- **RMBA Assignment (Group B9):** [rmba-assignment](https://github.com/antonioncmsantos-hue/projects/tree/main/projects/rmba-assignment)
-- **Data Visualization – Terrorism, Economics & Governance:** [data-visualization-terrorism](https://github.com/antonioncmsantos-hue/projects/tree/main/data-visualization-terrorism).
+### 1) [Credit Risk Modeling — Loan Default](LINK_AQUI)
+**What it solves:** Builds a credit-risk model to estimate loan default likelihood from borrower and loan features, supporting screening and risk profiling.  
+**Stack:** Python, pandas, statsmodels, scikit-learn  
+**Output:** [Report (HTML)](LINK_DO_HTML_AQUI) · ![preview](assets/credit-risk.png)
+
+---
+
+### 2) [Risk Dashboard — Terrorism, Governance & Macroeconomics (WDI/WGI/GTD)](LINK_AQUI)
+**What it solves:** Combines terrorism, governance, and macroeconomic indicators into interactive dashboards to track risk concentration and governance–risk patterns over time.  
+**Stack:** Python, pandas, Tableau, World Bank WDI/WGI, GTD  
+**Output:** [Final Report (PDF)](LINK_DO_PDF_AQUI) · ![preview](assets/terrorism-governance.png)
 
 
 ## Certificates
