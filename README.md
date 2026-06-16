@@ -1,6 +1,6 @@
 # António Santos
 
-Aspiring Financial Analyst | Data-driven finance projects in Python/SQL/Power BI | Open to internships
+Aspiring Financial Analyst | Data-driven finance projects in Python/SQL/Power BI | Open to internships/trainee positions 
 
 ## Skills
 - **Tools**: Python, SQL, Power BI, Excel
